@@ -73,15 +73,15 @@ This was a **guided project** inspired by Satish Dhawale Sir's YouTube video. Wh
 
 ## 📽️ Project Demo
 
-- 📽️ [Dashboard Demo Video](https://youtu.be/examplelink)
-- 🖼️ [Presentation Video](https://drive.google.com/file/d/exampleID/view)
+- 📽️ [Dashboard Demo Video](https://www.linkedin.com/posts/komalsharma-insights_exceldashboard-healthcareanalytics-dataanalytics-activity-7325766460570488832-uz2L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC6RzkBFwFC9OsTNQE67xvf1nxZbpf_05Y)
+- 🖼️ [Presentation Video](https://www.linkedin.com/posts/komalsharma-insights_excel-dataanalytics-dashboarddesign-activity-7325763566777565184-nbY9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC6RzkBFwFC9OsTNQE67xvf1nxZbpf_05Y)
 
 ---
 
 ## 📁 Files Included
 
-- 📊 [Excel Dashboard](./dashboard.xlsx)
-- 🖼️ [Project Presentation](./presentation.pdf)
-- 📄 [Executive Summary](./executive-summary.docx)
+- 📊 [Excel Dashboard](https://github.com/KomalSharma0/Hospital-ER-Analysis/blob/main/Hospital%20Emergency%20Room%20Dashboard.xlsx)
+- 🖼️ [Project Presentation](https://github.com/KomalSharma0/Hospital-ER-Analysis/blob/main/Presentation.pdf)
+- 📄 [Executive Summary](https://github.com/KomalSharma0/Hospital-ER-Analysis/blob/main/Executive_Summary.pdf)
 
 ---

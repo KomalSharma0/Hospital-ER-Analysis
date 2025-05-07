@@ -85,3 +85,8 @@ This was a **guided project** inspired by Satish Dhawale Sir's YouTube video. Wh
 - 📄 [Executive Summary](https://github.com/KomalSharma0/Hospital-ER-Analysis/blob/main/Executive_Summary.pdf)
 
 ---
+
+## Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/komalsharma-insights)
+- 🌐 [Portfolio]( https://komalsharma0.github.io/Portfolio/)
